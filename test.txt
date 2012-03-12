@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Bith please ... Y U NO SHUT UP
 
 BLBOOBOLBOBOBLBO
+=======
+Bith please ... Y U NO SHUT UP
+>>>>>>> 3d9d4321b37a4ac345982b0bade81e6e291d36fa
